@@ -1,6 +1,6 @@
 from cyclopts import App
 
-import pythontemplate
+import synops
 
 app = App()
 
